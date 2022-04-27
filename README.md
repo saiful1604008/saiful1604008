@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @saiful1604008
 - 👀 I’m interested in learning new tech.
-- 🌱 I’m currently learning python, machine learning etc.
+- 🌱 I’m currently learning React JS.
+- Interested in Data Analysis, Python.
+
 - 📫 How to reach me ... email : u1604008@student.cuet.ac.bd
 
 <!---
